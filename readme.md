@@ -292,7 +292,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |        `xd`        |         <img src="./icons/XD.svg" width="48">         |
 |       `zig`        |      <img src="./icons/Zig-Dark.svg" width="48">      |
 |       `hug`        |    <img src="./icons/huggingface.svg" width="48">     |
-|     `leetcode`     |      <img src="./icons/LeetCode.svg" width="48">      |
+|     `leetcode`     |      <img src="./icons/leetcode.svg" width="48">      |
 |    `codetrace`     |     <img src="./icons/codetrace.svg" width="48">      |
 
 ---
