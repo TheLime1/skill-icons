@@ -42,6 +42,7 @@ const shortNames = {
   ghactions: 'githubactions',
   hug: 'huggingface',
   leetcode: 'leetcode',
+  codetrace: 'codetrace',
 };
 const themedIcons = [
   ...Object.keys(icons)
