@@ -123,6 +123,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `cmake`       |     <img src="./icons/CMake-Dark.svg" width="48">     |
 |     `codepen`      |    <img src="./icons/CodePen-Dark.svg" width="48">    |
 |   `coffeescript`   | <img src="./icons/CoffeeScript-Dark.svg" width="48">  |
+|      `colab`       |      <img src="./icons/Colab.svg" width="48">         |
 |       `css`        |        <img src="./icons/CSS.svg" width="48">         |
 |        `d3`        |      <img src="./icons/D3-Dark.svg" width="48">       |
 |       `dart`       |     <img src="./icons/Dart-Dark.svg" width="48">      |
@@ -158,6 +159,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |  `githubactions`   | <img src="./icons/GithubActions-Dark.svg" width="48"> |
 |      `gitlab`      |    <img src="./icons/GitLab-Dark.svg" width="48">     |
 |     `gherkin`      |    <img src="./icons/Gherkin-Dark.svg" width="48">    |
+|      `gmail`       |    <img src="./icons/Gmail.svg" width="48">           |
 |        `go`        |       <img src="./icons/GoLang.svg" width="48">       |
 |      `gradle`      |    <img src="./icons/Gradle-Dark.svg" width="48">     |
 |      `godot`       |     <img src="./icons/Godot-Dark.svg" width="48">     |
@@ -165,6 +167,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |     `graphql`      |    <img src="./icons/GraphQL-Dark.svg" width="48">    |
 |       `gtk`        |      <img src="./icons/GTK-Dark.svg" width="48">      |
 |       `gulp`       |        <img src="./icons/Gulp.svg" width="48">        |
+|      `hadoop`      |        <img src="./icons/Hadoop.svg" width="48">      |
 |     `haskell`      |    <img src="./icons/Haskell-Dark.svg" width="48">    |
 |       `haxe`       |     <img src="./icons/Haxe-Dark.svg" width="48">      |
 |    `haxeflixel`    |  <img src="./icons/HaxeFlixel-Dark.svg" width="48">   |
@@ -174,6 +177,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `idea`       |     <img src="./icons/Idea-Dark.svg" width="48">      |
 |        `ai`        |    <img src="./icons/Illustrator.svg" width="48">     |
 |    `instagram`     |     <img src="./icons/Instagram.svg" width="48">      |
+|       `ionic `     |     <img src="./icons/Ionic.svg" width="48">          |
 |       `ipfs`       |     <img src="./icons/IPFS-Dark.svg" width="48">      |
 |       `java`       |     <img src="./icons/Java-Dark.svg" width="48">      |
 |        `js`        |     <img src="./icons/JavaScript.svg" width="48">     |
@@ -181,6 +185,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `jest`       |        <img src="./icons/Jest.svg" width="48">        |
 |     `jhipster`     |   <img src="./icons/Jhipster-Dark.svg" width="48">    |
 |      `jquery`      |       <img src="./icons/JQuery.svg" width="48">       |
+|     `jupyter`      |    <img src="./icons/Jupyter.svg" width="48">         |
 |      `kafka`       |       <img src="./icons/Kafka.svg" width="48">        |
 |      `kotlin`      |    <img src="./icons/Kotlin-Dark.svg" width="48">     |
 |       `ktor`       |     <img src="./icons/Ktor-Dark.svg" width="48">      |
@@ -211,6 +216,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |      `nuxtjs`      |    <img src="./icons/NuxtJS-Dark.svg" width="48">     |
 |      `ocaml`       |       <img src="./icons/OCaml.svg" width="48">        |
 |      `octave`      |    <img src="./icons/Octave-Dark.svg" width="48">     |
+|      `opencv`      |    <img src="./icons/Opencv.svg" width="48">          |
 |    `openshift`     |     <img src="./icons/OpenShift.svg" width="48">      |
 |    `openstack`     |   <img src="./icons/OpenStack-Dark.svg" width="48">   |
 |      `oracle`      |    <img src="./icons/Oracle-Dark.svg" width="48">     |
@@ -249,6 +255,7 @@ Here's a list of all the icons currently supported. Feel free to open an issue t
 |       `sass`       |        <img src="./icons/Sass.svg" width="48">        |
 |    `sonarqube`     |   <img src="./icons/Sonarqube-Dark.svg" width="48">   |
 |      `spring`      |    <img src="./icons/Spring-Dark.svg" width="48">     |
+|     `spyder`       |    <img src="./icons/Spyder.svg" width="48">          |
 |      `sqlite`      |       <img src="./icons/SQLite.svg" width="48">       |
 |    `sqlserver`     |   <img src="./icons/Sqlserver-Dark.svg" width="48">   |
 |  `stackoverflow`   | <img src="./icons/StackOverflow-Dark.svg" width="48"> |
